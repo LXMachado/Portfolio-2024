@@ -1,2 +1,2 @@
 # Portfolio-2024
-A new version of my personal portfolio website.
+A sleak and modern portfolio website
